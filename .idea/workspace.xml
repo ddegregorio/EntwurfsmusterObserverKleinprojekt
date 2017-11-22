@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c81934f-2096-4ddf-8d3e-5f6b143af215" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1511262317755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$UserArticleMappingTest.coverage" NAME="UserArticleMappingTest Coverage Results" MODIFIED="1511352087636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$Manual_container_configuration__ArticleDAOImplTest.coverage" NAME="Manual container configuration: ArticleDAOImplTest Coverage Results" MODIFIED="1511262026639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Infrastructure.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$UserDAOImplTest.coverage" NAME="UserDAOImplTest Coverage Results" MODIFIED="1511351924711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Infrastructure.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$ArticleDAOImplTest.coverage" NAME="ArticleDAOImplTest Coverage Results" MODIFIED="1511352154268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Infrastructure.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$UserArticleMappingImplTest.coverage" NAME="UserArticleMappingImplTest Coverage Results" MODIFIED="1511357446153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Infrastructure.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$ArticleOnSaleTest.coverage" NAME="ArticleOnSaleTest Coverage Results" MODIFIED="1511351978395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$Main.coverage" NAME="Main Coverage Results" MODIFIED="1511365380125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DemoApp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$UserTest.coverage" NAME="UserTest Coverage Results" MODIFIED="1511351990893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$ArticleTest.coverage" NAME="ArticleTest Coverage Results" MODIFIED="1511352033231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EntwurfsmusterKleinprojekt$AServiceLayerTest.coverage" NAME="AServiceLayerTest Coverage Results" MODIFIED="1511364212824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ASL.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArticleDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ASL/ArticleDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AServiceLayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ASL/AServiceLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserArticleMappingDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ASL/UserArticleMappingDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ASL/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Article.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Domain/Article.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="e#564#565#0" expanded="true" />
+                <marker date="1511386900641" expanded="true" signature="2717:2759" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleOnSale.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Domain/ArticleOnSale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <folding>
+                <marker date="1511385350628" expanded="true" signature="906:933" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAOImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/UserDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <marker date="1511387064475" expanded="true" signature="866:1534" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleDAOImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/ArticleDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <marker date="1511387064528" expanded="true" signature="4453:5412" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserArticleMapping.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Domain/UserArticleMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/ASL/Main.java" />
+        <option value="$PROJECT_DIR$/src/Infracstructure/NetworkClientConnecter.java" />
+        <option value="$PROJECT_DIR$/src/ASL/ArtikelDAO.java" />
+        <option value="$PROJECT_DIR$/src/Infracstructure/Database.java" />
+        <option value="$PROJECT_DIR$/src/Infracstructure/ArticleDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/Domain/UserAuthenticator.java" />
+        <option value="$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/com/mysql/fabric/jdbc/FabricMySQLDriver.class" />
+        <option value="$PROJECT_DIR$/test/Domain/ArticleOnSaleTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/test/Domain/UserArticleMappingTest.java" />
+        <option value="$PROJECT_DIR$/test/Domain/UserTest.java" />
+        <option value="$PROJECT_DIR$/test/Infrastructure/UserDAOImplTest.java" />
+        <option value="$PROJECT_DIR$/test/Infrastructure/UserArticleMappingImplTest.java" />
+        <option value="$PROJECT_DIR$/test/ASL/AServiceLayerTest.java" />
+        <option value="$USER_HOME$/Desktop/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/NonRegisteringDriver.class" />
+        <option value="$USER_HOME$/Desktop/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/ResultSetImpl.class" />
+        <option value="$PROJECT_DIR$/test/Domain/ArticleTest.java" />
+        <option value="$PROJECT_DIR$/test/Infrastructure/ArticleDAOImplTest.java" />
+        <option value="$PROJECT_DIR$/src/ASL/ArticleDAO.java" />
+        <option value="$PROJECT_DIR$/src/ASL/AServiceLayer.java" />
+        <option value="$PROJECT_DIR$/src/ASL/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/ASL/UserArticleMappingDAO.java" />
+        <option value="$PROJECT_DIR$/src/DemoApp/Main.java" />
+        <option value="$PROJECT_DIR$/src/DemoApp/ValidCommands.java" />
+        <option value="$PROJECT_DIR$/src/DemoApp/Command.java" />
+        <option value="$PROJECT_DIR$/src/Domain/ArticleOnSale.java" />
+        <option value="$PROJECT_DIR$/src/Domain/UserArticleMapping.java" />
+        <option value="$PROJECT_DIR$/src/Domain/User.java" />
+        <option value="$PROJECT_DIR$/src/DemoApp/Parser.java" />
+        <option value="$PROJECT_DIR$/src/Domain/Article.java" />
+        <option value="$PROJECT_DIR$/src/Domain/Observer.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/UserArticleMappingImpl.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/UserDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Database.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/ArticleDAOImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ASL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EntwurfsmusterKleinprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EntwurfsmusterKleinprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ASL" />
+      <recent name="Infrastructure" />
+      <recent name="Domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArticleDAOImplTest">
+    <configuration name="AServiceLayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ASL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EntwurfsmusterKleinprojekt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ASL" />
+      <option name="MAIN_CLASS_NAME" value="ASL.AServiceLayerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="AServiceLayerTest.getArticleById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ASL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EntwurfsmusterKleinprojekt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ASL" />
+      <option name="MAIN_CLASS_NAME" value="ASL.AServiceLayerTest" />
+      <option name="METHOD_NAME" value="getArticleById(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ArticleDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Infrastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EntwurfsmusterKleinprojekt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Infrastructure" />
+      <option name="MAIN_CLASS_NAME" value="Infrastructure.ArticleDAOImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ArticleOnSaleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EntwurfsmusterKleinprojekt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Domain" />
+      <option name="MAIN_CLASS_NAME" value="Domain.ArticleOnSaleTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DemoApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DemoApp.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EntwurfsmusterKleinprojekt" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ArticleDAOImplTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ArticleOnSaleTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AServiceLayerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AServiceLayerTest.getArticleById" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ArticleDAOImplTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AServiceLayerTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AServiceLayerTest.getArticleById" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ArticleOnSaleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c81934f-2096-4ddf-8d3e-5f6b143af215" name="Default" comment="" />
+      <created>1510759272457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510759272457</updated>
+      <workItem from="1510759274149" duration="4798000" />
+      <workItem from="1510899828906" duration="20000" />
+      <workItem from="1510931541859" duration="1597000" />
+      <workItem from="1510950556155" duration="160000" />
+      <workItem from="1510950755324" duration="4461000" />
+      <workItem from="1510958161744" duration="7548000" />
+      <workItem from="1510995261003" duration="31997000" />
+      <workItem from="1511118456474" duration="3988000" />
+      <workItem from="1511128528982" duration="4396000" />
+      <workItem from="1511259448951" duration="1665000" />
+      <workItem from="1511261175104" duration="2622000" />
+      <workItem from="1511267517658" duration="722000" />
+      <workItem from="1511289446299" duration="360000" />
+      <workItem from="1511290859210" duration="905000" />
+      <workItem from="1511294431431" duration="155000" />
+      <workItem from="1511294665081" duration="1902000" />
+      <workItem from="1511296656588" duration="8392000" />
+      <workItem from="1511305657302" duration="2147000" />
+      <workItem from="1511307981870" duration="23000" />
+      <workItem from="1511308035258" duration="6944000" />
+      <workItem from="1511347853501" duration="8311000" />
+      <workItem from="1511358686112" duration="55000" />
+      <workItem from="1511358781491" duration="9000" />
+      <workItem from="1511358835233" duration="26000" />
+      <workItem from="1511358883157" duration="35000" />
+      <workItem from="1511360197197" duration="895000" />
+      <workItem from="1511361113066" duration="44000" />
+      <workItem from="1511361368932" duration="1158000" />
+      <workItem from="1511363156244" duration="5586000" />
+      <workItem from="1511369088534" duration="1234000" />
+      <workItem from="1511371327375" duration="350000" />
+      <workItem from="1511371711292" duration="84000" />
+      <workItem from="1511371821860" duration="1620000" />
+      <workItem from="1511376600269" duration="1400000" />
+      <workItem from="1511379483067" duration="93000" />
+      <workItem from="1511382778200" duration="4274000" />
+      <workItem from="1511388683025" duration="87000" />
+      <workItem from="1511390694814" duration="57000" />
+      <workItem from="1511390848243" duration="112000" />
+      <workItem from="1511390978138" duration="25000" />
+    </task>
+    <task id="LOCAL-00001" summary="adds different methods in ArticleDAOImpl and UserDAOImpl">
+      <created>1510965909544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510965909544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adds different methods in ArticleDAOImpl and UserDAOImpl">
+      <created>1511037898880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511037898880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adds different methods in ArticleDAOImpl and UserDAOImpl">
+      <created>1511122888489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511122888489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adds different methods in ArticleDAOImpl and UserDAOImpl">
+      <created>1511133234462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511133234462</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adds different test classes">
+      <created>1511315100473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511315100473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adds different test classes">
+      <created>1511358729810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511358729810</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adds the method &quot;Article getArticleByID(int a_id)&quot; to &#10;the class AServiceLayer">
+      <created>1511363415449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511363415449</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changes method &quot;void setDiscountOnArticle(int uid)&quot; in class &#10;AServiceLayer">
+      <created>1511368696402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511368696402</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes method &quot;void setDiscountOnArticle(int uid)&quot; in class &#10;             AServiceLayer">
+      <created>1511369620223</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511369620223</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes method &quot;void setDiscount(boolean discount)&quot;">
+      <created>1511369906447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1511369906447</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changes method &quot;void notify(Article a)&quot; in class User.&#10;&#10;A different message will be printed out now if the article is on&#10;sale.">
+      <created>1511370261081</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511370261081</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adds shopkonditoreidb.sql&#10;&#10;this file is needed to be able to create the database">
+      <created>1511371907932</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511371907932</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changes class ArticleOnSale to use the interface Observers">
+      <created>1511376288569</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511376288569</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changes method name &quot;notifyUser&quot; in class ArticleOnSale&#10;to notifyObservers">
+      <created>1511377299715</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1511377299715</updated>
+    </task>
+    <task id="LOCAL-00015" summary="adds &quot;Präsentation Obersrver Pattern.pptx&quot;">
+      <created>1511379544049</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511379544049</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adds &quot;Observer Pattern mit Java API.zip&quot;&#10;&#10;this is a second project to show the observer pattern with &#10;the JavaFX API">
+      <created>1511382862880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1511382862880</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adds comments to the classes ArticleDAO and&#10;AServiceLayer.">
+      <created>1511384609191</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1511384609191</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adds comments to different classes">
+      <created>1511387249429</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1511387249429</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 16h 28m 19s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 16h 28m 43s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 16h 31m 24s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 16h 32m 26s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 16h 33m 32s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 17h 36m 48s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest - 2017.11.22 at 17h 38m 33s.xml">
+      <configuration name="AServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest_getArticleById - 2017.11.22 at 16h 29m 43s.xml">
+      <configuration name="AServiceLayerTest.getArticleById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AServiceLayerTest_getArticleById - 2017.11.22 at 16h 29m 59s.xml">
+      <configuration name="AServiceLayerTest.getArticleById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArticleDAOImplTest - 2017.11.22 at 23h 49m 09s.xml">
+      <configuration name="ArticleDAOImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110374000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671082" sideWeight="0.28489584" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.325" sideWeight="0.71510416" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1977612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39673913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32339954" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28837952" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="changes structure of project" />
+    <MESSAGE value="adds different methods in ArticleDAOImpl and UserDAOImpl" />
+    <MESSAGE value="adds different test classes" />
+    <MESSAGE value="adds the method &quot;Article getArticleByID(int a_id)&quot; to &#10;the class AServiceLayer" />
+    <MESSAGE value="changes method &quot;void setDiscountOnArticle(int uid)&quot; in class &#10;AServiceLayer" />
+    <MESSAGE value="changes method &quot;void setDiscountOnArticle(int uid)&quot; in class &#10;             AServiceLayer" />
+    <MESSAGE value="changes method &quot;void setDiscount(boolean discount)&quot;" />
+    <MESSAGE value="changes method &quot;void notify(Article a)&quot; in class User.&#10;&#10;A different message will be printed out now if the article is on&#10;sale." />
+    <MESSAGE value="adds shopkonditoreidb.sql&#10;&#10;this file is needed to be able to create the database" />
+    <MESSAGE value="changes class ArticleOnSale to use the interface Observers" />
+    <MESSAGE value="changes method name &quot;notifyUser&quot; in class ArticleOnSale&#10;to notifyObservers" />
+    <MESSAGE value="adds &quot;Präsentation Obersrver Pattern.pptx&quot;" />
+    <MESSAGE value="adds &quot;Observer Pattern mit Java API.zip&quot;&#10;&#10;this is a second project to show the observer pattern with &#10;the JavaFX API" />
+    <MESSAGE value="adds comments to the classes ArticleDAO and&#10;AServiceLayer." />
+    <MESSAGE value="adds comments to different classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds comments to different classes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Domain/Article.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Infracstructure/Database.java" />
+    <entry file="file://$PROJECT_DIR$/src/ASL/ArticleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/AServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <marker date="1511386900641" expanded="true" signature="2717:2759" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/ArticleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ArticleDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/AServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <marker date="1511386900641" expanded="true" signature="2717:2759" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/ArticleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ArticleDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Domain.UserAuthenticator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Domain.UserAuthenticator</OriginalElement>
+          <nodes>
+            <node x="211.0" y="0.0">Domain.UserAuthenticator</node>
+            <node x="0.0" y="167.0">ASL.AServiceLayer</node>
+            <node x="149.0" y="329.0">Domain.User</node>
+            <node x="15.0" y="0.0">ASL.ArticleDAO</node>
+            <node x="0.0" y="86.0">Infrastructure.ArticleDAOImpl</node>
+            <node x="169.0" y="248.0">ASL.UserDAO</node>
+            <node x="198.0" y="167.0">Infrastructure.UserDAOImpl</node>
+            <node x="0.0" y="248.0">Infrastructure.Database</node>
+            <node x="0.0" y="329.0">Domain.Article</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Infrastructure.ArticleDAOImpl" target="ASL.ArticleDAO">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="126.0" y="221.0" />
+          <SelectedNodes>
+            <node>Domain.UserAuthenticator</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Infrastructure.UserDAOImpl">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Infrastructure.UserDAOImpl</OriginalElement>
+          <nodes>
+            <node x="0.0" y="167.0">Domain.UserAuthenticator</node>
+            <node x="0.0" y="329.0">Domain.User</node>
+            <node x="225.0" y="167.0">ASL.AServiceLayer</node>
+            <node x="0.0" y="86.0">Infrastructure.ArticleDAOImpl</node>
+            <node x="15.0" y="0.0">ASL.ArticleDAO</node>
+            <node x="226.0" y="0.0">ASL.UserDAO</node>
+            <node x="0.0" y="248.0">Infrastructure.Database</node>
+            <node x="211.0" y="86.0">Infrastructure.UserDAOImpl</node>
+            <node x="318.0" y="248.0">Main</node>
+            <node x="169.0" y="248.0">Domain.Article</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Infrastructure.ArticleDAOImpl" target="ASL.ArticleDAO">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="ASL.UserDAO">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="183.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Domain.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Domain.User</OriginalElement>
+          <nodes>
+            <node x="198.24999999999997" y="268.0">Domain.UserAuthenticator</node>
+            <node x="467.9941666666667" y="268.0">ASL.AServiceLayer</node>
+            <node x="168.99624999999997" y="172.0">Domain.User</node>
+            <node x="331.0941666666667" y="172.0">Infrastructure.ArticleDAOImpl</node>
+            <node x="450.575" y="86.0">ASL.ArticleDAO</node>
+            <node x="56.25" y="268.0">ASL.UserDAO</node>
+            <node x="0.0" y="354.0">Infrastructure.UserDAOImpl</node>
+            <node x="3.749999999999943" y="86.0">Infrastructure.Database</node>
+            <node x="503.3579166666666" y="354.0">Main</node>
+            <node x="466.575" y="0.0">Domain.Article</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Infrastructure.ArticleDAOImpl" target="ASL.ArticleDAO">
+              <point x="62.25" y="-18.0" />
+              <point x="476.3441666666667" y="147.0" />
+              <point x="484.575" y="147.0" />
+              <point x="-34.0" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Infrastructure.ArticleDAOImpl">
+              <point x="-30.600000000000023" y="-18.0" />
+              <point x="513.8941666666667" y="228.0" />
+              <point x="414.0941666666667" y="228.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Domain.UserAuthenticator" target="Domain.User">
+              <point x="0.0" y="-18.0" />
+              <point x="288.25" y="248.0" />
+              <point x="225.24624999999997" y="248.0" />
+              <point x="11.25" y="18.0" />
+            </edge>
+            <edge source="ASL.UserDAO" target="Domain.User">
+              <point x="0.0" y="-18.0" />
+              <point x="117.25" y="248.0" />
+              <point x="202.74624999999997" y="248.0" />
+              <point x="-11.25" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="ASL.ArticleDAO">
+              <point x="0.0" y="-18.0" />
+              <point x="544.4941666666666" y="248.0" />
+              <point x="552.575" y="248.0" />
+              <point x="34.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="Domain.User">
+              <point x="0.0" y="-18.0" />
+              <point x="76.0" y="329.0" />
+              <point x="45.74999999999994" y="329.0" />
+              <point x="45.74999999999994" y="238.0" />
+              <point x="180.24624999999997" y="238.0" />
+              <point x="-33.75" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Domain.User">
+              <point x="-61.19999999999999" y="-18.0" />
+              <point x="483.2941666666667" y="238.0" />
+              <point x="247.74624999999997" y="238.0" />
+              <point x="33.75" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.ArticleDAOImpl" target="Domain.Article">
+              <point x="-20.75" y="-18.0" />
+              <point x="393.3441666666667" y="147.0" />
+              <point x="423.8441666666667" y="147.0" />
+              <point x="423.8441666666667" y="56.0" />
+              <point x="476.97499999999997" y="56.0" />
+              <point x="-41.60000000000002" y="18.0" />
+            </edge>
+            <edge source="Main" target="ASL.AServiceLayer">
+              <point x="23.5" y="-18.0" />
+              <point x="573.8579166666666" y="329.0" />
+              <point x="582.7441666666666" y="329.0" />
+              <point x="38.25" y="18.0" />
+            </edge>
+            <edge source="ASL.ArticleDAO" target="Domain.Article">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="Infrastructure.Database">
+              <point x="-50.66666666666663" y="-18.0" />
+              <point x="25.33333333333337" y="329.0" />
+              <point x="34.74999999999994" y="329.0" />
+              <point x="-31.0" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Domain.Article">
+              <point x="30.600000000000023" y="-18.0" />
+              <point x="575.0941666666668" y="248.0" />
+              <point x="597.075" y="248.0" />
+              <point x="597.075" y="66.0" />
+              <point x="539.375" y="66.0" />
+              <point x="20.799999999999955" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="ASL.UserDAO">
+              <point x="50.66666666666666" y="-18.0" />
+              <point x="126.66666666666666" y="329.0" />
+              <point x="117.25" y="329.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.ArticleDAOImpl" target="Infrastructure.Database">
+              <point x="-62.25" y="-18.0" />
+              <point x="351.8441666666667" y="147.0" />
+              <point x="96.74999999999994" y="147.0" />
+              <point x="31.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-183.0" y="19.0" />
+          <SelectedNodes>
+            <node>Domain.User</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/sql/PreparedStatement.java" />
+    <entry file="uml://JAVA/ASL.AServiceLayer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ASL.AServiceLayer</OriginalElement>
+          <nodes>
+            <node x="368.01190476190476" y="424.0">Domain.UserAuthenticator</node>
+            <node x="366.0" y="192.0">Domain.Observer</node>
+            <node x="472.6032312925169" y="278.0">Domain.User</node>
+            <node x="252.6032312925169" y="530.0">ASL.AServiceLayer</node>
+            <node x="119.38894557823116" y="278.0">ASL.ArticleDAO</node>
+            <node x="62.35595238095232" y="424.0">Infrastructure.ArticleDAOImpl</node>
+            <node x="569.0119047619048" y="424.0">ASL.UserDAO</node>
+            <node x="324.3889455782312" y="278.0">Infrastructure.Database</node>
+            <node x="554.0119047619048" y="530.0">Infrastructure.UserDAOImpl</node>
+            <node x="282.1032312925169" y="616.0">Main</node>
+            <node x="212.01190476190476" y="0.0">Domain.ArticleOnSale</node>
+            <node x="36.561564625850224" y="86.0">Domain.Article</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ASL.AServiceLayer" target="Domain.UserAuthenticator">
+              <point x="68.0" y="-18.0" />
+              <point x="397.1032312925169" y="510.0" />
+              <point x="458.01190476190476" y="510.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.ArticleDAOImpl" target="ASL.ArticleDAO">
+              <point x="20.75" y="-18.0" />
+              <point x="166.10595238095232" y="404.0" />
+              <point x="153.38894557823116" y="404.0" />
+              <point x="-34.0" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Infrastructure.ArticleDAOImpl">
+              <point x="-34.0" y="-18.0" />
+              <point x="295.1032312925169" y="490.0" />
+              <point x="145.35595238095232" y="490.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Domain.User" target="Domain.Observer">
+              <point x="-33.75" y="-18.0" />
+              <point x="483.8532312925169" y="253.0" />
+              <point x="426.0" y="253.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Domain.UserAuthenticator" target="Domain.User">
+              <point x="5.6843418860808015E-14" y="-18.0" />
+              <point x="458.0119047619048" y="404.0" />
+              <point x="530.4603741496599" y="404.0" />
+              <point x="12.85714285714289" y="18.0" />
+            </edge>
+            <edge source="ASL.UserDAO" target="Domain.User">
+              <point x="0.0" y="-18.0" />
+              <point x="630.0119047619048" y="344.0" />
+              <point x="543.3175170068025" y="344.0" />
+              <point x="25.714285714285666" y="18.0" />
+            </edge>
+            <edge source="Domain.Article" target="Domain.ArticleOnSale">
+              <point x="-26.0" y="-18.0" />
+              <point x="62.561564625850224" y="56.0" />
+              <point x="230.88690476190476" y="56.0" />
+              <point x="-56.625" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="ASL.ArticleDAO">
+              <point x="-17.0" y="-18.0" />
+              <point x="312.1032312925169" y="480.0" />
+              <point x="238.85595238095232" y="480.0" />
+              <point x="238.85595238095232" y="344.0" />
+              <point x="221.38894557823116" y="344.0" />
+              <point x="34.0" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="Domain.User">
+              <point x="50.66666666666663" y="-18.0" />
+              <point x="680.6785714285713" y="510.0" />
+              <point x="701.5119047619048" y="510.0" />
+              <point x="701.5119047619048" y="334.0" />
+              <point x="556.1746598639454" y="334.0" />
+              <point x="38.571428571428555" y="18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Domain.User">
+              <point x="34.0" y="-18.0" />
+              <point x="363.1032312925169" y="500.0" />
+              <point x="346.51190476190476" y="500.0" />
+              <point x="346.51190476190476" y="384.0" />
+              <point x="504.746088435374" y="384.0" />
+              <point x="-12.85714285714289" y="18.0" />
+            </edge>
+            <edge source="Domain.ArticleOnSale" target="Domain.Article">
+              <point x="-18.875" y="18.0" />
+              <point x="268.63690476190476" y="66.0" />
+              <point x="114.56156462585022" y="66.0" />
+              <point x="26.0" y="-18.0" />
+            </edge>
+            <edge source="Infrastructure.ArticleDAOImpl" target="Domain.Article">
+              <point x="-20.75" y="-18.0" />
+              <point x="124.60595238095232" y="404.0" />
+              <point x="107.13894557823119" y="404.0" />
+              <point x="107.13894557823119" y="172.0" />
+              <point x="88.56156462585022" y="172.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Main" target="ASL.AServiceLayer">
+              <point x="23.5" y="-18.0" />
+              <point x="352.6032312925169" y="591.0" />
+              <point x="367.3532312925169" y="591.0" />
+              <point x="38.25" y="18.0" />
+            </edge>
+            <edge source="ASL.ArticleDAO" target="Domain.Article">
+              <point x="0.0" y="-18.0" />
+              <point x="187.38894557823116" y="162.0" />
+              <point x="103.41870748299306" y="162.0" />
+              <point x="14.857142857142833" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="Infrastructure.Database">
+              <point x="-50.66666666666663" y="-18.0" />
+              <point x="579.3452380952381" y="510.0" />
+              <point x="558.5119047619048" y="510.0" />
+              <point x="558.5119047619048" y="354.0" />
+              <point x="417.3889455782312" y="354.0" />
+              <point x="31.0" y="18.0" />
+            </edge>
+            <edge source="Domain.ArticleOnSale" target="Domain.User">
+              <point x="56.625" y="18.0" />
+              <point x="344.13690476190476" y="56.0" />
+              <point x="534.103231292517" y="56.0" />
+              <point x="534.103231292517" y="253.0" />
+              <point x="551.353231292517" y="253.0" />
+              <point x="33.75" y="-18.0" />
+            </edge>
+            <edge source="ASL.AServiceLayer" target="Domain.Article">
+              <point x="-51.0" y="-18.0" />
+              <point x="278.1032312925169" y="500.0" />
+              <point x="37.0" y="500.0" />
+              <point x="37.0" y="172.0" />
+              <point x="58.8472789115645" y="172.0" />
+              <point x="-29.714285714285722" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.UserDAOImpl" target="ASL.UserDAO">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Domain.User" target="Domain.Article">
+              <point x="-11.25" y="-18.0" />
+              <point x="506.3532312925169" y="253.0" />
+              <point x="508.6389455782312" y="253.0" />
+              <point x="508.6389455782312" y="142.0" />
+              <point x="133.13299319727878" y="142.0" />
+              <point x="44.571428571428555" y="18.0" />
+            </edge>
+            <edge source="Domain.Observer" target="Domain.Article">
+              <point x="0.0" y="-18.0" />
+              <point x="426.0" y="152.0" />
+              <point x="118.27585034013595" y="152.0" />
+              <point x="29.714285714285708" y="18.0" />
+            </edge>
+            <edge source="Infrastructure.ArticleDAOImpl" target="Infrastructure.Database">
+              <point x="62.25" y="-18.0" />
+              <point x="207.60595238095232" y="354.0" />
+              <point x="355.3889455782312" y="354.0" />
+              <point x="-31.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="198.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/com/mysql/fabric/jdbc/FabricMySQLDriver.class" />
+    <entry file="file://$PROJECT_DIR$/src/Domain/UserAuthenticator.java" />
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/NonRegisteringDriver.class" />
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/Driver.class" />
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/ResultSetImpl.class" />
+    <entry file="file://$PROJECT_DIR$/test/Domain/ArticleOnSaleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Domain/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Domain/UserArticleMappingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Infrastructure/UserArticleMappingImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Infrastructure/UserDAOImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ASL/AServiceLayerTest.java" />
+    <entry file="jar://$USER_HOME$/Desktop/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/ResultSetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63053">
+          <caret line="3755" column="0" lean-forward="false" selection-start-line="3755" selection-start-column="0" selection-end-line="3755" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/mysql-connector-java-5.1.44-bin.jar!/com/mysql/jdbc/NonRegisteringDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Domain/ArticleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="e#222#223#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopkonditoreidb.sql" />
+    <entry file="file://$PROJECT_DIR$/test/Infrastructure/ArticleDAOImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Infrastructure.Database">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Infrastructure.Database</OriginalElement>
+          <nodes>
+            <node x="55.928571428571416" y="240.0">Domain.User</node>
+            <node x="0.0" y="160.0">Domain.Observer</node>
+            <node x="8.053571428571416" y="0.0">Domain.ArticleOnSale</node>
+            <node x="58.999999999999986" y="80.0">Domain.Article</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Domain.User" target="Domain.Observer">
+              <point x="-18.25" y="-15.0" />
+              <point x="74.17857142857142" y="215.0" />
+              <point x="48.5" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="Domain.Article" target="Domain.ArticleOnSale">
+              <point x="-21.0" y="-15.0" />
+              <point x="79.99999999999999" y="55.0" />
+              <point x="83.67857142857142" y="55.0" />
+              <point x="15.125" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-463.0" y="2.0" />
+          <SelectedNodes>
+            <node>Domain.ArticleOnSale</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoApp/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoApp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoApp/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoApp/ValidCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1511385444095" expanded="true" signature="1380:1391" ph="{...}" />
+            <marker date="1511385444095" expanded="true" signature="1397:1616" ph="/**...*/" />
+            <marker date="1511385444095" expanded="true" signature="1666:2064" ph="{...}" />
+            <marker date="1511385444095" expanded="true" signature="2070:2170" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/UserArticleMappingImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <marker date="1511387064603" expanded="true" signature="3740:4605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/UserDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1511387064475" expanded="true" signature="866:1534" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/UserArticleMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/ArticleOnSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <marker date="1511385350628" expanded="true" signature="906:933" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <marker date="1511386900641" expanded="true" signature="2717:2759" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ArticleDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1511387064528" expanded="true" signature="4453:5412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/AServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/UserArticleMappingDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASL/ArticleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EntwurfsmusterKleinprojekt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.44-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
