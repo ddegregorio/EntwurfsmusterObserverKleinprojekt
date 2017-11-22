@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c81934f-2096-4ddf-8d3e-5f6b143af215" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -537,7 +536,7 @@
       <workItem from="1511390694814" duration="57000" />
       <workItem from="1511390848243" duration="112000" />
       <workItem from="1511390978138" duration="25000" />
-      <workItem from="1511391269249" duration="134000" />
+      <workItem from="1511391269249" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="adds different methods in ArticleDAOImpl and UserDAOImpl">
       <created>1510965909544</created>
@@ -672,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511391335439</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="adds changes workspace.xml&#10;&#10;add changes to README.md">
+      <created>1511391428881</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511391428881</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -708,7 +714,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110508000" />
+    <option name="totallyTimeSpent" value="110538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -781,7 +787,8 @@
     <MESSAGE value="adds comments to the classes ArticleDAO and&#10;AServiceLayer." />
     <MESSAGE value="adds comments to different classes" />
     <MESSAGE value="adds vcs.xml and workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds vcs.xml and workspace.xml" />
+    <MESSAGE value="adds changes workspace.xml&#10;&#10;add changes to README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds changes workspace.xml&#10;&#10;add changes to README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
